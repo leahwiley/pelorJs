@@ -2,21 +2,31 @@
 	{
 		label:'Home',
 		url:'https://nathanielwiley.github.io/',
+		git:'https://github.com/nathanielwiley/nathanielwiley.github.io',
 		parent:''
 	},
 	{
 		label:'pelorJs',
 		url:'https://nathanielwiley.github.io/pelorJs/',
+		git:'https://github.com/nathanielwiley/pelorJs',
 		parent:''
 	},
 	{
 		label:'Experiments',
 		url:'https://nathanielwiley.github.io/wileyworkshop/',
+		git:'https://github.com/nathanielwiley/wileyworkshop',
 		parent:''
 	},
 	{
 		label:'Conpigurator',
 		url:'https://nathanielwiley.github.io/conpigurator/',
+		git:'https://github.com/nathanielwiley/conpigurator',
+		parent:''
+	},
+	{
+		label:'Blank Signal',
+		url:'https://briancribb.github.io/blank-signal/',
+		git:'https://github.com/briancribb/blank-signal',
 		parent:''
 	}
 ]
