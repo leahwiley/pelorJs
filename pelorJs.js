@@ -2,7 +2,7 @@
 	init:function(){
 		alert('pelorJs init ran');
 		$.ajax({
-		  url: "sample.json",
+		  url: "/pelorJs/sample.json",
 		  dataType: "json"
 		}).success(function(data) {
 		  console.log(data);
