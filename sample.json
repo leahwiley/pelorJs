@@ -1,32 +1,33 @@
 [
 	{
-		label:'Home',
-		url:'https://nathanielwiley.github.io/',
-		git:'https://github.com/nathanielwiley/nathanielwiley.github.io',
-		parent:''
+		'title':'Home',
+		'url':'https://nathanielwiley.github.io/',
+		'alt':'https://github.com/nathanielwiley/nathanielwiley.github.io',
+		'parent':''
 	},
 	{
-		label:'pelorJs',
-		url:'https://nathanielwiley.github.io/pelorJs/',
-		git:'https://github.com/nathanielwiley/pelorJs',
-		parent:''
+		'title':'pelorJs',
+		'url':'https://nathanielwiley.github.io/pelorJs/',
+		'alt':'https://github.com/nathanielwiley/pelorJs',
+		'parent':''
 	},
 	{
-		label:'Experiments',
-		url:'https://nathanielwiley.github.io/wileyworkshop/',
-		git:'https://github.com/nathanielwiley/wileyworkshop',
-		parent:''
+		'title':'Experiments',
+		'url':'https://nathanielwiley.github.io/wileyworkshop/',
+		'alt':'https://github.com/nathanielwiley/wileyworkshop',
+		'parent':''
 	},
 	{
-		label:'Conpigurator',
-		url:'https://nathanielwiley.github.io/conpigurator/',
-		git:'https://github.com/nathanielwiley/conpigurator',
-		parent:''
+		'title':'Conpigurator',
+		'url':'https://nathanielwiley.github.io/conpigurator/',
+		'alt':'https://github.com/nathanielwiley/conpigurator',
+		'parent':''
 	},
 	{
-		label:'Blank Signal',
-		url:'https://briancribb.github.io/blank-signal/',
-		git:'https://github.com/briancribb/blank-signal',
-		parent:''
+		'title':'Blank Signal',
+		'url':'https://briancribb.github.io/blank-signal/',
+		'alt':'https://github.com/briancribb/blank-signal',
+		'external':true,
+		'parent':''
 	}
 ]
