@@ -1,5 +1,5 @@
 ;var pelorJs = pelorJs || {
-	heading: window.location,
+	heading: window.location.href,
 	init:function(){
 		console.log('pelorJs init ran');
 	}
