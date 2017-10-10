@@ -34,5 +34,14 @@
 		================================================== -->
 		<script src="/pelorJs/pelorJs.js"></script>
 		<script src="/test.js"></script>
+		<script>
+			$.ajax({
+			  url: "/pelorJs/sample.json",
+			  dataType: "json"
+			}).success(function(data) {
+			  console.log(data);
+			  pelorJs.init(data);
+			});
+		</script>
 	</body>
 </html>
