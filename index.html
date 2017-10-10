@@ -40,8 +40,9 @@
 			  url: "/pelorJs/sample.json",
 			  dataType: "text"
 			}).done(function(data) {
-			  console.log(data);
-			  pelorJs.init(data);
+			  var aLandmarks = $.parseJSON(decodeURICOmponent(encodeURIComponent(data)));
+			  console.log(aLandmarks);
+			  pelorJs.init(aLandmarks);
 			});
 		</script>
 	</body>
