@@ -1,12 +1,7 @@
 ;var pelorJs = pelorJs || {
+	heading: window.location,
 	init:function(){
-		alert('pelorJs init ran');
-		$.ajax({
-		  url: "/pelorJs/sample.json",
-		  dataType: "json"
-		}).success(function(data) {
-		  console.log(data);
-		});
+		console.log('pelorJs init ran');
 	}
 };
 console.log('pelorJs loaded');
