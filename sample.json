@@ -1,0 +1,22 @@
+[
+	{
+		label:'Home',
+		url:'https://nathanielwiley.github.io/',
+		parent:''
+	},
+	{
+		label:'pelorJs',
+		url:'https://nathanielwiley.github.io/pelorJs/',
+		parent:''
+	},
+	{
+		label:'Experiments',
+		url:'https://nathanielwiley.github.io/wileyworkshop/',
+		parent:''
+	},
+	{
+		label:'Conpigurator',
+		url:'https://nathanielwiley.github.io/conpigurator/',
+		parent:''
+	}
+]
